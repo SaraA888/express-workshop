@@ -1,3 +1,5 @@
+// alert('included');
+
 if (document.readyState !== 'loading') {
     ready();
 } else {
